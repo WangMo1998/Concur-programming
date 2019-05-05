@@ -1,0 +1,3 @@
+﻿  lab4pt.cpp
+lab4pt.obj : error LNK2019: unresolved external symbol __imp__pthread_create referenced in function _main
+H:\Java Labs\lab4pt\lab4pt\Debug\lab4pt.exe : fatal error LNK1120: 1 unresolved externals
